@@ -1,0 +1,9 @@
+[submodule "ref/ohmyzsh"]
+	path = ref/ohmyzsh
+	url = https://github.com/ohmyzsh/ohmyzsh
+[submodule "ref/.tmux"]
+	path = ref/.tmux
+	url = https://github.com/gpakosz/.tmux
+[submodule "ref/autojump"]
+	path = ref/autojump
+	url = https://github.com/wting/autojump

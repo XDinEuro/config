@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/yx/Desktop/S_functions'
+let g:netrw_dirhist_2='/home/yx/Desktop/S_functions/sfun'
+let g:netrw_dirhist_3='/home/yx/Desktop/S_functions'
+let g:netrw_dirhist_4='/home/yx/Desktop/S_functions/mexfiles'
+let g:netrw_dirhist_5='/home/yx/Desktop/S_functions'
+let g:netrw_dirhist_6='/home/yx/Desktop/S_functions/sfun'
